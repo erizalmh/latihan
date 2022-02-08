@@ -8,5 +8,5 @@ void loop() {
   // put your main code here, to run repeatedly:
 
   //comment from laptop jia
-    // comment kedua dari laptop jia
+  //komentar  terbaru
 }
