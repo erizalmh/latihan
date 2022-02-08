@@ -5,6 +5,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
+  // put your code here, to run repeatedly:
+//dibuat di cabang latihan1
 }
