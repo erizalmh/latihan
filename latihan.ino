@@ -5,6 +5,10 @@ void setup() {
 }
 
 void loop() {
-  // put your code here, to run repeatedly:
-//dibuat di cabang latihan1
+  // put your main code here, to run repeatedly:
+
+  //comment from laptop jia
+    // comment kedua dari laptop jia
+
+    //dari cabang jia di laptop jia
 }
