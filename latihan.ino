@@ -7,4 +7,7 @@ void setup() {
 void loop() {
   // put your code here, to run repeatedly:
 //dibuat di cabang latihan1
+//dibuat di cabang 2
+//dibuat di cabang 4
+
 }
